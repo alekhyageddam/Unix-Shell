@@ -1,6 +1,6 @@
-•	To compile my shell, do the following: gcc -o pa2 pa2.c
+•	To compile the shell, do the following: gcc -o pa2 pa2.c
 
-•	To run my shell, use this command: ./pa2
+•	To run the shell, use this command: ./pa2
 
 •	After the execution of every ps command that includes the pipe, the control goes back out of my shell window back to the main. This requires calling “./pa2” on shell again to restart my shell.
 
